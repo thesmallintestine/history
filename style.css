@@ -1,11 +1,15 @@
+#title
+{border:  yellow;
+padding: 200px rgb(37, 196, 130);
+border: 100px;
+color: red;
+text-align: right;
+background: rgba(255, 0, 0, 0.151);}
+
 *{font-family: sans-serif;
 background:rgb(57, 124, 165);}
 
-#title
-{border: 40px yellow;
-padding: 40px rgb(37, 196, 130);
-color: red;
-text-align: center;}
+
 
 .flex-container 
 {display: flex;}
@@ -23,5 +27,7 @@ font-size: x-large;
 border: 6px solid orange}
 
 .flexpics
-{border: 20px solid rgba(255, 0, 0, 0.26);}
+{border: 20px solid rgba(255, 0, 0, 0.26); align-content: center;}
 
+
+p{background: rgb(162, 223, 218);}
